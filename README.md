@@ -1,4 +1,4 @@
-# BrowserStack Round 2 – Web Scraping Automation
+# 📌 BrowserStack Round 2 – Web Scraping Automation
 
 ## Project Overview
 
@@ -14,7 +14,7 @@ This project automates scraping articles from the El País Opinion page using Se
 - Runs in parallel on BrowserStack cloud
 - Public build available
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 - Node.js
 - Selenium WebDriver
