@@ -31,7 +31,6 @@ Tests run in parallel on:
 ## Project Overview
 
 browserstack-round2/
- - ├── node_modules
  - ├── src/
  - │    ├── scraper.js
  - │    ├── translator.js
@@ -39,7 +38,7 @@ browserstack-round2/
  - │    ├── runner.js
  - ├── images/ 
  - ├── browserstack-config.js
- - ├── .env
+ - ├── .env.example
  - ├── package.json
  - ├── README.md
 
@@ -57,6 +56,6 @@ browserstack-round2/
 ## BrowserStack Public Build Link
 https://automate.browserstack.com/projects/Default+Project/builds/BrowserStack-Abhishek/3?public_token=7dfeae31e1713bce57394f98619adaeeae2f4d49781ec584fcebf2b94087375d
 
-## Author
+## 👨‍💻 Author
 Abhishek Jha
 
