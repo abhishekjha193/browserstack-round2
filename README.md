@@ -6,13 +6,14 @@ This project automates scraping articles from the El País Opinion page using Se
 
 ## Features
 
-- Scrapes first 5 opinion articles
-- Extracts title and article content
-- Downloads article images
-- Translates titles to English using Google Translate API
-- Identifies repeated words (frequency analysis)
-- Runs in parallel on BrowserStack cloud
-- Public build available
+- Automated extraction of first 5 opinion articles from El País
+- Dynamic DOM handling with Selenium WebDriver
+- Full article content scraping
+- Automated image download & storage
+- Spanish → English translation via API integration
+- Word frequency analysis with repeated word detection (>2 occurrences)
+- Parallel cloud execution across browsers & real devices
+- Publicly verifiable BrowserStack build
 
 ## ⚙️ Tech Stack
 
@@ -22,11 +23,19 @@ This project automates scraping articles from the El País Opinion page using Se
 - Axios
 - RapidAPI (Google Translate)
 
-## Parallel Execution
+## 🚀 Parallel Execution
 
 Tests run in parallel on:
 - Chrome (Windows 10)
 - Firefox (macOS Ventura)
+
+## 🏗 Engineering Highlights
+- Asynchronous JavaScript handling using async/await
+- Modular architecture (scraper, translator, analyzer separation)
+- Environment variable security management
+- Cloud capability configuration
+- Cross-platform automation validation
+- Production-style project structure
 
 ## Technical Architecture
 
