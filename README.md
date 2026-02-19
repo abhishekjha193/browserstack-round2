@@ -31,17 +31,17 @@ Tests run in parallel on:
 ## Project Overview
 
 browserstack-round2/
- -├── node_modules
- -├── src/
- -│    ├── scraper.js
- -│    ├── translator.js
- -│    ├── analyzer.js
- -│    ├── runner.js
- -├── images/ 
- -├── browserstack-config.js
- -├── .env
- -├── package.json
- -├── README.md
+ - ├── node_modules
+ - ├── src/
+ - │    ├── scraper.js
+ - │    ├── translator.js
+ - │    ├── analyzer.js
+ - │    ├── runner.js
+ - ├── images/ 
+ - ├── browserstack-config.js
+ - ├── .env
+ - ├── package.json
+ - ├── README.md
 
 ## Setup Instructions
 
