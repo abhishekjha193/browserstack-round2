@@ -33,10 +33,10 @@ Tests run in parallel on:
 1. Clone repository
 2. Run: npm install
 3. Create `.env` file: 
-BROWSERSTACK_USERNAME=your_username
-BROWSERSTACK_ACCESS_KEY=your_access_key
-RAPIDAPI_KEY=your_key
-RAPIDAPI_HOST=google-api31.p.rapidapi.com
+- BROWSERSTACK_USERNAME=your_username 
+- BROWSERSTACK_ACCESS_KEY=your_access_key
+- RAPIDAPI_KEY=your_key
+- RAPIDAPI_HOST=google-api31.p.rapidapi.com
 4. Run: node src/runner.js
 
 ## BrowserStack Public Build Link
