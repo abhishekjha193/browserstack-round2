@@ -28,6 +28,21 @@ Tests run in parallel on:
 - Chrome (Windows 10)
 - Firefox (macOS Ventura)
 
+## Project Overview
+
+browserstack-round2/
+ ├── node_modules
+ ├── src/
+ │    ├── scraper.js
+ │    ├── translator.js
+ │    ├── analyzer.js
+ │    ├── runner.js
+ ├── images/ 
+ ├── browserstack-config.js
+ ├── .env
+ ├── package.json
+ ├── README.md
+
 ## Setup Instructions
 
 1. Clone repository
